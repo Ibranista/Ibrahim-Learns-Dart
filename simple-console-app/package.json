@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "create": "dart create -t console-simple directory-name",
+        "compile": "dart compile exe bin/main.dart -o bin/main.exe"
+    }
+}
